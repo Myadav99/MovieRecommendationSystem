@@ -1,0 +1,582 @@
+id,title,year,duration,genre,imdb_rating,img_loc
+1,Kantara,2022,148 min,Action,9.3,https://m.media-amazon.com/images/M/MV5BNjQyNGI5OWEtZjI1Yy00NDVjLWE4MTAtMzRlNzU1NzM2OGVkXkEyXkFqcGdeQXVyMTA1NzEzOTU1.jpg
+2,The Dark Knight,2008,152 min,Action,9.0,https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@.jpg
+3,The Lord of the Rings: The Return of the King,2003,201 min,Action,9.0,https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+4,Inception,2010,148 min,Action,8.8,https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg
+5,The Lord of the Rings: The Two Towers,2002,179 min,Action,8.8,https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+6,The Lord of the Rings: The Fellowship of the Ring,2001,178 min,Action,8.8,https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg
+7,The Matrix,1999,136 min,Action,8.7,https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+8,The Empire Strikes Back,1980,124 min,Action,8.7,https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+9,Terminator 2: Judgment Day,1991,137 min,Action,8.6,https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+10,Star Wars,1977,121 min,Action,8.6,https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx.jpg
+11,Seppuku,1962,133 min,Action,8.6,https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@.jpg
+12,Shichinin no samurai,1954,207 min,Action,8.6,https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@.jpg
+13,Kaithi,2019,145 min,Action,8.5,https://m.media-amazon.com/images/M/MV5BZjk4Njg4YjktYzU5Zi00ZWY1LWE4NTUtNWI2MjU4MDE3ZGRmXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg
+14,Asuran,2019,141 min,Action,8.5,https://m.media-amazon.com/images/M/MV5BZTgzNTRkYWEtYWJmOC00NjMzLWFlMWEtMWRiNmFlMjBiOTI1XkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg
+15,Sita Ramam,2022,163 min,Action,8.5,https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2.jpg
+16,Gladiator,2000,155 min,Action,8.5,https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+17,Léon,1994,110 min,Action,8.5,https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+18,Vikram,2022,175 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx.jpg
+19,Spider-Man: Into the Spider-Verse,2018,117 min,Animation,8.4,https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@.jpg
+20,Avengers: Endgame,2019,181 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@.jpg
+21,Avengers: Infinity War,2018,149 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@.jpg
+22,Top Gun: Maverick,2022,130 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@.jpg
+23,The Dark Knight Rises,2012,164 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@.jpg
+24,K.G.F: Chapter 2,2022,168 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BNWRlYTAyZDQtZmQ5Yi00ZTUzLTljZDMtYjcwZTgyMDIwOGRiXkEyXkFqcGdeQXVyMTUwMDg3OTQy.jpg
+25,Shershaah,2021,135 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BMjk1NzcwMDUtNDU4ZC00MzlhLTkzZjAtM2MxMTRjZGE0ODdhXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+26,Oldeuboi,2003,101 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@.jpg
+27,Mononoke-hime,1997,134 min,Animation,8.4,https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@.jpg
+28,Aliens,1986,137 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+29,Raiders of the Lost Ark,1981,115 min,Action,8.4,https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@.jpg
+30,Vikram Vedha,2017,147 min,Action,8.3,https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg
+31,Dangal,2016,161 min,Action,8.3,https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@.jpg
+32,Spider-Man: No Way Home,2021,148 min,Action,8.3,https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@.jpg
+33,Heat,1995,170 min,Action,8.3,https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+34,Star Wars: Episode VI - Return of the Jedi,1983,131 min,Action,8.3,https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+35,North by Northwest,1959,136 min,Action,8.3,https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+36,Major,2022,150 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+37,1917,2019,119 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@.jpg
+38,Uri: The Surgical Strike,2019,138 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@.jpg
+39,K.G.F: Chapter 1,2018,156 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg
+40,Dag II,2016,135 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BN2I2NGMzMTItNWI4YS00MWRiLTliZTEtNzhjODE3NDcyZjQwXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+41,Baahubali 2: The Conclusion,2017,167 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BOGNlNmRkMjctNDgxMC00NzFhLWIzY2YtZDk3ZDE0NWZhZDBlXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg
+42,Gangs of Wasseypur,2012,321 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@.jpg
+43,Paan Singh Tomar,2012,135 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BNTgwODM5OTMzN15BMl5BanBnXkFtZTcwMTA3NzI1Nw@@.jpg
+44,Warrior,2011,140 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@.jpg
+45,Kimetsu no Yaiba: Mugen Ressha-Hen,2020,117 min,Animation,8.2,https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@.jpg
+46,V for Vendetta,2005,132 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@.jpg
+47,Batman Begins,2005,140 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+48,Kill Bill: Vol. 1,2003,111 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+49,"Lock, Stock and Two Smoking Barrels",1998,107 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+50,Jurassic Park,1993,127 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@.jpg
+53,777 Charlie,2022,136 min,Adventure,8.9,https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1.jpg
+57,"Il buono, il brutto, il cattivo",1966,161 min,Adventure,8.8,https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+59,Interstellar,2014,169 min,Adventure,8.6,https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+60,Sen to Chihiro no kamikakushi,2001,125 min,Animation,8.6,https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+64,The Lion King,1994,88 min,Animation,8.5,https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@.jpg
+65,Back to the Future,1985,116 min,Adventure,8.5,https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+69,WALL·E,2008,98 min,Animation,8.4,https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@.jpg
+74,Up,2009,96 min,Animation,8.3,https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@.jpg
+75,Toy Story 3,2010,103 min,Animation,8.3,https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@.jpg
+76,Inglourious Basterds,2009,153 min,Adventure,8.3,https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg
+77,Toy Story,1995,81 min,Animation,8.3,https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@.jpg
+79,2001: A Space Odyssey,1968,149 min,Adventure,8.3,https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+80,Lawrence of Arabia,1962,218 min,Adventure,8.3,https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg
+83,Hauru no ugoku shiro,2004,119 min,Animation,8.2,https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@.jpg
+84,Finding Nemo,2003,100 min,Animation,8.2,https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+86,Indiana Jones and the Last Crusade,1989,127 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@.jpg
+87,Monty Python and the Holy Grail,1975,91 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+88,Dersu Uzala,1975,142 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+89,The Great Escape,1963,172 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg
+90,The Bridge on the River Kwai,1957,161 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@.jpg
+91,Le salaire de la peur,1953,131 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BMzE2ODNiZGItNGJiZS00MzBkLTgzZDktN2NmZGE0ZWU3N2U5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@.jpg
+92,The Treasure of the Sierra Madre,1948,126 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+93,The General,1926,67 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+94,The Gold Rush,1925,95 min,Adventure,8.2,https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+95,Everything Everywhere All at Once,2022,139 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0.jpg
+96,Klaus,2019,96 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg
+97,Bajrangi Bhaijaan,2015,163 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BNGNlYmRmMGEtNWJhYy00ZjMzLWJhOTQtZjdiNTAxMzI5Njg5XkEyXkFqcGdeQXVyMTA4NjE0NjEy.jpg
+98,Queen,2013,146 min,Adventure,8.1,https://m.media-amazon.com/images/M/MV5BNWYyOWRlOWItZWM5MS00ZjJkLWI0MTUtYTE3NTI5MDAwYjgyXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+101,Hotaru no haka,1988,89 min,Animation,8.5,https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+102,Kimi no na wa.,2016,106 min,Animation,8.4,https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@.jpg
+112,Koe no katachi,2016,130 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+114,Ôkami kodomo no Ame to Yuki,2012,117 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+115,Mary and Max.,2009,92 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+116,How to Train Your Dragon,2010,98 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@.jpg
+117,Ratatouille,2007,111 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@.jpg
+118,"Monsters, Inc.",2001,92 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@.jpg
+119,The Iron Giant,1999,86 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BMTYzNjZhNDgtZjBmOC00NjNiLWFhYjQtNjE3NmUyNjAwMGUyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+120,Tonari no Totoro,1988,86 min,Animation,8.1,https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+121,WolfWalkers,2020,103 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BNTA4MWQ4NGUtOGQ0MS00M2QyLWE5MDItZWM2YzA0ZDgxZTA2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@.jpg
+122,Soul,2020,100 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@.jpg
+123,Zootopia,2016,108 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@.jpg
+124,Kaguya-hime no Monogatari,2013,137 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BNThmMWMyMWMtOWRiNy00MGY0LTg1OTUtNjYzODg2MjdlZGU5XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+125,Song of the Sea,2014,93 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BMTQ2MDMwNjEwNV5BMl5BanBnXkFtZTgwOTkxMzI0MzE@.jpg
+126,Persepolis,2007,96 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BMGRkZThmYzEtYjQxZC00OWEzLThjYjAtYzFkMjY0NGZkZWI4XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+127,The Incredibles,2004,115 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@.jpg
+128,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,87 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BMjU0MzQwMmMtMWU3OS00MDc0LWIzOTItZmE1MjZlYmExMGJiXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg
+129,Pâfekuto burû,1997,81 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BMmMzOWNhNTYtYmY0My00OGJiLWIzNDUtZWRhNGY0NWFjNzFmXkEyXkFqcGdeQXVyNjUxMDQ0MTg@.jpg
+130,Aladdin,1992,90 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@.jpg
+131,Beauty and the Beast,1991,84 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+132,Akira,1988,124 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@.jpg
+133,Tenkû no shiro Rapyuta,1986,125 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BNDFhZmY2NTgtMzljYy00MTlhLTgyMjItNTEwZWJkYThhYzkyXkEyXkFqcGdeQXVyNTgyNTA4MjM@.jpg
+134,Kaze no tani no Naushika,1984,117 min,Animation,8.0,https://m.media-amazon.com/images/M/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+135,Fantastic Mr. Fox,2009,87 min,Animation,7.9,https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+136,Shrek,2001,90 min,Animation,7.9,https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+137,Toy Story 2,1999,92 min,Animation,7.9,https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg
+138,Mimi wo sumaseba,1995,111 min,Animation,7.9,https://m.media-amazon.com/images/M/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+139,Kôkaku Kidôtai,1995,83 min,Animation,7.9,https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+140,The Nightmare Before Christmas,1993,76 min,Animation,7.9,https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@.jpg
+141,Isle of Dogs,2018,101 min,Animation,7.8,https://m.media-amazon.com/images/M/MV5BZDQwOWQ2NmUtZThjZi00MGM0LTkzNDctMzcyMjcyOGI1OGRkXkEyXkFqcGdeQXVyMTA3MDk2NDg2.jpg
+142,Loving Vincent,2017,94 min,Animation,7.8,https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@.jpg
+143,Big Hero 6,2014,102 min,Animation,7.8,https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@.jpg
+144,How to Train Your Dragon 2,2014,102 min,Animation,7.8,https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@.jpg
+145,Tôkyô goddofâzâzu,2003,90 min,Animation,7.8,https://m.media-amazon.com/images/M/MV5BMTkyNmU2ZjUtNzIwMy00MWRlLWE4ZWQtYzJhYjU0MmUxZjhiXkEyXkFqcGdeQXVyNDgyODgxNjE@.jpg
+146,Sennen joyû,2001,87 min,Animation,7.8,https://m.media-amazon.com/images/M/MV5BNmY4NDEyYmQtODQ3MC00NjA1LTkwM2YtYjUyNTYxYTdlNDE4XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+147,Schindler's List,1993,195 min,Biography,9.0,https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+148,Rocketry: The Nambi Effect,2022,157 min,Biography,8.9,https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1.jpg
+149,Goodfellas,1990,145 min,Biography,8.7,https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+150,The Intouchables,2011,112 min,Biography,8.5,https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@.jpg
+151,The Pianist,2002,150 min,Biography,8.5,https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+152,Hamilton,2020,160 min,Biography,8.4,https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@.jpg
+154,Sardar Udham,2021,164 min,Biography,8.4,https://m.media-amazon.com/images/M/MV5BZGFhNTYwZmMtNzk4Ny00MTExLThjMWUtNjYzMTEwZjEzMWQ3XkEyXkFqcGdeQXVyMTI1NDEyNTM5.jpg
+155,Braveheart,1995,178 min,Biography,8.4,https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+156,Amadeus,1984,160 min,Biography,8.4,https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg
+157,Ayla: The Daughter of War,2017,125 min,Biography,8.3,https://m.media-amazon.com/images/M/MV5BZjE2NGYwMGQtOWE4MC00NTFjLTk3YTgtMWI5ZmZlMzUyYzExXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+161,Green Book,2018,130 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@.jpg
+162,Bhaag Milkha Bhaag,2013,186 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@.jpg
+164,The Wolf of Wall Street,2013,180 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@.jpg
+165,Der Untergang,2004,156 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2.jpg
+166,A Beautiful Mind,2001,135 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+167,Raging Bull,1980,129 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@.jpg
+168,The Elephant Man,1980,124 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+170,La passion de Jeanne d'Arc,1928,110 min,Biography,8.2,https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+171,Hacksaw Ridge,2016,139 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@.jpg
+172,12 Years a Slave,2013,134 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@.jpg
+173,Ford v Ferrari,2019,152 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx.jpg
+174,Hachi: A Dog's Tale,2009,93 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+175,Into the Wild,2007,148 min,Adventure,8.1,https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+176,Hotel Rwanda,2004,121 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+177,Catch Me If You Can,2002,141 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2.jpg
+178,In the Name of the Father,1993,133 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+179,Gandhi,1982,191 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BOGVmZGU2M2EtZTVjYy00OWU2LWI0YjEtZjQ4YjNmODhmMzhkXkEyXkFqcGdeQXVyNjk1Njg5NTA@.jpg
+180,The Message,1976,177 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BMjk3YjJmYTctMTAzZC00MzE4LWFlZGMtNDM5OTMyMDEzZWIxXkEyXkFqcGdeQXVyNTI4MjkwNjA@.jpg
+181,Andrei Rublev,1966,205 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZTgwMjEzMzE5MTE@.jpg
+182,The Sound of Music,1965,172 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+183,Inherit the Wind,1960,128 min,Biography,8.1,https://m.media-amazon.com/images/M/MV5BZjcwZjhlZmEtNjg3ZC00OTEwLWFjY2MtMDg2OTQwZWJmMGM3XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+184,Lion,2016,118 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@.jpg
+185,The Imitation Game,2014,114 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@.jpg
+186,The King's Speech,2010,118 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@.jpg
+187,Ip Man,2008,106 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+189,The Pursuit of Happyness,2006,117 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@.jpg
+190,Le scaphandre et le papillon,2007,112 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BMTc3MjkzMDkxN15BMl5BanBnXkFtZTcwODAyMTU1MQ@@.jpg
+191,Cinderella Man,2005,144 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BODEyYmQxZjUtZGQ0NS00ZTAwLTkwOGQtNGY2NzEwMWE0MDc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+192,The Straight Story,1999,112 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BM2UxYTMwMWUtOGM1OS00MDI4LWFhNTUtOTA4NWI2ZjEwNmMxXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+193,Dog Day Afternoon,1975,125 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+194,Hababam Sinifi,1975,87 min,Comedy,9.2,https://m.media-amazon.com/images/M/MV5BOWI4NGQ1M2YtNDM2Yi00YzAzLWJmZmYtMjkxZWMwNmM5Y2NhXkEyXkFqcGdeQXVyMjQ2OTI2MzU@.jpg
+196,La vita è bella,1997,116 min,Comedy,8.6,https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+199,Modern Times,1936,87 min,Comedy,8.5,https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+200,City Lights,1931,87 min,Comedy,8.5,https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+202,3 Idiots,2009,170 min,Comedy,8.4,https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+203,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95 min,Comedy,8.4,https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+204,The Great Dictator,1940,125 min,Comedy,8.4,https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+207,Le fabuleux destin d'Amélie Poulain,2001,122 min,Comedy,8.3,https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+209,The Sting,1973,129 min,Comedy,8.3,https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+210,The Apartment,1960,125 min,Comedy,8.3,https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@.jpg
+211,Singin' in the Rain,1952,103 min,Comedy,8.3,https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg
+212,The Kid,1921,68 min,Comedy,8.3,https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+213,Chhichhore,2019,143 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BYjg2ZDI2YTYtN2EwYi00YWI5LTgyMWQtMWFkYmE3NmJkOGVhXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+214,Andhadhun,2018,139 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@.jpg
+217,Zindagi Na Milegi Dobara,2011,155 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BZGFmMjM5OWMtZTRiNC00ODhlLThlYTItYTcyZDMyYmMyYjFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg
+220,Snatch,2000,104 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+222,The Truman Show,1998,103 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+224,Some Like It Hot,1959,121 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+225,To Be or Not to Be,1942,99 min,Comedy,8.2,https://m.media-amazon.com/images/M/MV5BODZlOGI5ZjYtN2UwNy00OGY0LTgxY2UtNDZhMzBkN2EyZmIyXkEyXkFqcGdeQXVyNTgyNTA4MjM@.jpg
+228,Sherlock Jr.,1924,45 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+229,Dil Bechara,2020,101 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BNmI0MTliMTAtMmJhNC00NTJmLTllMzQtMDI3NzA1ODMyZWI1XkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+231,"Three Billboards Outside Ebbing, Missouri",2017,115 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@.jpg
+235,Relatos salvajes,2014,122 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg
+236,PK,2014,153 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@.jpg
+237,OMG: Oh My God!,2012,125 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BMGNhYjUwNmYtNDQxNi00NDdmLTljMDAtZWM1NDQyZTk3ZDYwXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+238,The Grand Budapest Hotel,2014,99 min,Adventure,8.1,https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@.jpg
+239,Barfi!,2012,151 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@.jpg
+242,The Godfather,1972,175 min,Crime,9.2,https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+243,Aynabaji,2016,147 min,Crime,9.0,https://m.media-amazon.com/images/M/MV5BOTQzYjk2ZTYtM2FhNi00ODQ1LWI0YWYtZDVhMzRiN2ZlMzQ5XkEyXkFqcGdeQXVyMTE3MzIyMDM5.jpg
+245,The Godfather Part II,1974,202 min,Crime,9.0,https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+246,12 Angry Men,1957,96 min,Crime,9.0,https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+247,Jai Bhim,2021,164 min,Crime,8.9,https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@.jpg
+248,Pulp Fiction,1994,154 min,Crime,8.9,https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+250,Cidade de Deus,2002,130 min,Crime,8.6,https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+251,The Green Mile,1999,189 min,Crime,8.6,https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3.jpg
+252,Se7en,1995,127 min,Crime,8.6,https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+253,The Silence of the Lambs,1991,118 min,Crime,8.6,https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+255,The Departed,2006,151 min,Crime,8.5,https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3.jpg
+256,American History X,1998,119 min,Crime,8.5,https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@.jpg
+257,The Usual Suspects,1995,106 min,Crime,8.5,https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+259,Drishyam 2,2021,152 min,Crime,8.4,https://m.media-amazon.com/images/M/MV5BM2RiZDVjYWEtZGNhYy00ZGU0LTgwZjMtZTJmNmMyNGQ5NGYyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@.jpg
+262,Tengoku to jigoku,1963,143 min,Crime,8.4,https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+263,Witness for the Prosecution,1957,116 min,Crime,8.4,https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+264,Ratsasan,2018,170 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@.jpg
+266,Drishyam,2013,160 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BYmY3MzYwMGUtOWMxYS00OGVhLWFjNmUtYzlkNGVmY2ZkMjA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@.jpg
+268,Reservoir Dogs,1992,99 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+269,Once Upon a Time in America,1984,229 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+270,Scarface,1983,170 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+272,A Clockwork Orange,1971,136 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@.jpg
+273,To Kill a Mockingbird,1962,129 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+274,Double Indemnity,1944,107 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@.jpg
+275,M - Eine Stadt sucht einen Mörder,1931,117 min,Crime,8.3,https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@.jpg
+282,No Country for Old Men,2007,122 min,Crime,8.2,https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@.jpg
+287,L.A. Confidential,1997,138 min,Crime,8.2,https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+288,Casino,1995,178 min,Crime,8.2,https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+289,Taxi Driver,1976,114 min,Crime,8.2,https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+290,Z,1969,127 min,Crime,8.2,https://m.media-amazon.com/images/M/MV5BNDQ4ZTI5NTktOTY2ZS00NmM3LWE2ZTAtMTdjNzFmOWYzYzhkXkEyXkFqcGdeQXVyNjMwMjk0MTQ@.jpg
+292,The Shawshank Redemption,1994,142 min,Drama,9.3,https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+305,Fight Club,1999,139 min,Drama,8.8,https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+307,Forrest Gump,1994,142 min,Drama,8.8,https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+308,Soorarai Pottru,2020,153 min,Drama,8.7,https://m.media-amazon.com/images/M/MV5BOGVjYmM0ZWEtNTFjNi00MWZjLTk3OTItMmFjMDAzZWU1ZDVjXkEyXkFqcGdeQXVyMTI2Mzk1ODg0.jpg
+310,One Flew Over the Cuckoo's Nest,1975,133 min,Drama,8.7,https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+313,Saving Private Ryan,1998,169 min,Drama,8.6,https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg
+320,It's a Wonderful Life,1946,130 min,Drama,8.6,https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@.jpg
+322,Gisaengchung,2019,132 min,Drama,8.5,https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@.jpg
+323,Whiplash,2014,106 min,Drama,8.5,https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+326,The Prestige,2006,130 min,Drama,8.5,https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2.jpg
+334,Nuovo Cinema Paradiso,1988,155 min,Drama,8.5,https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@.jpg
+336,Apocalypse Now,1979,147 min,Drama,8.5,https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+337,Casablanca,1942,102 min,Drama,8.5,https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg
+344,Taare Zameen Par,2007,165 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+350,Babam ve Oglum,2005,112 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+353,Bacheha-Ye aseman,1997,89 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+356,Harry Potter and the Deathly Hallows: Part 2,2011,130 min,Adventure,8.1,https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+359,Chak De! India,2007,153 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMTUzODMyNzk4NV5BMl5BanBnXkFtZTgwNTk1NTYyNTM@.jpg
+365,The Wizard of Oz,1939,102 min,Adventure,8.1,https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@.jpg
+366,The Circus,1928,72 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BYWE2OTVkOTYtZDM3OC00M2MwLTliOTAtNTJhNmRkZmZmYTcyXkEyXkFqcGdeQXVyMzExODEzNDA@.jpg
+375,The Princess Bride,1987,98 min,Adventure,8.0,https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+377,Fiddler on the Roof,1971,181 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BODQ5NGUzMzQtZTJjZC00MTk0LThjNmMtYzRjMjI1YTZiNmM5XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+378,Togo,2019,113 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BNjJkYTc5N2UtMGRlMC00M2FmLTk0ZWMtOTYxNDUwNjI2YzljXkEyXkFqcGdeQXVyNDg4NjY5OTQ@.jpg
+380,Harry Potter and the Prisoner of Azkaban,2004,142 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@.jpg
+385,A Christmas Story,1983,93 min,Comedy,7.9,https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@.jpg
+386,E.T. the Extra-Terrestrial,1982,115 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+402,Tumbbad,2018,104 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BYmQxNmU4ZjgtYzE5Mi00ZDlhLTlhOTctMzJkNjk2ZGUyZGEwXkEyXkFqcGdeQXVyMzgxMDA0Nzk@.jpg
+404,Pan's Labyrinth,2006,118 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+414,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+416,Underground,1995,170 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BNzI4YTVmMWEtMWQ3MS00OGE1LWE5YjMtNjc4NWJmYjRmZTQyXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+417,Groundhog Day,1993,101 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+418,Dom za vesanje,1988,142 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BODI2ZjVlMGQtMWE5ZS00MjJiLWIyMWYtMGU5NmIxNDc0OTMyXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@.jpg
+420,Det sjunde inseglet,1957,96 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+426,Karthikeya 2,2022,150 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BMzFhZTE0NDAtMWNiYy00NDEwLWJkODctZWExZmIwZmM2ZjM5XkEyXkFqcGdeQXVyMTIyNzY0NTMx.jpg
+427,Zack Snyder's Justice League,2021,242 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2.jpg
+428,Big Fish,2003,125 min,Adventure,8.0,https://m.media-amazon.com/images/M/MV5BZTNlNTQzMGEtYjU4Yi00MzEzLThmMTQtNmM0NzcxZWI1MTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+433,Der Himmel über Berlin,1987,128 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMzE0ZTljZWItMTE3Mi00ZmEzLTg0OTktYWQ5MGY3YTQzMjZmXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+435,Sunset Blvd.,1950,110 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@.jpg
+437,Ace in the Hole,1951,111 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNDUzZjlhZTYtN2E5MS00ODQ3LWI1ZjgtNzdiZmI0NTZiZTljXkEyXkFqcGdeQXVyMjI4MjA5MzA@.jpg
+438,White Heat,1949,114 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BZmI5NTA3MjItYzdhMi00MWMxLTg3OWMtYWQyYjg5MTFmM2U0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+439,The Third Man,1949,104 min,Film-Noir,8.1,https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+440,Rebecca,1940,130 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+441,Touch of Evil,1958,95 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+442,Sweet Smell of Success,1957,96 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMjE5NTU3YWYtOWIxNi00YWZhLTg2NzktYzVjZWY5MDQ4NzVlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+443,The Killing,1956,84 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BMDE5ZjAwY2YtOWM5Yi00ZWNlLWE5ODQtYjA4NzA1NGFkZDU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+444,The Night of the Hunter,1955,92 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BYTNjN2M2MzYtZGEwMi00Mzc5LWEwYTMtODM1ZmRiZjFiNTU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+445,Out of the Past,1947,97 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BMDE0MjYxYmMtM2VhMC00MjhiLTg5NjItMDkzZGM5MGVlYjMxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+446,The Maltese Falcon,1941,100 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BODQzYjY2NzAtMTVkOS00YTI1LTg2YzQtMWExOTY5ZmQ4ODU1XkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg
+447,The Big Heat,1953,89 min,Crime,7.9,https://m.media-amazon.com/images/M/MV5BMmY1YzRmZDgtMTU4NS00NTcwLWE3N2EtNDc0MTk1ODg2YTA2XkEyXkFqcGdeQXVyMTYzMTY1MjQ@.jpg
+448,Strangers on a Train,1951,101 min,Crime,7.9,https://m.media-amazon.com/images/M/MV5BNWJjOGM4NmEtNDE2YS00OGEyLTkwZWItMGM4YzdhZDZhMzNhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+449,In a Lonely Place,1950,94 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BNjRmZjcwZTQtYWY0ZS00ODAwLTg4YTktZDhlZDMwMTM1MGFkXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+450,Notorious,1946,102 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BYTc1NGViOTMtNjZhNS00OGY2LWI4MmItOWQwNTY4MDMzNWI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+451,The Big Sleep,1946,114 min,Crime,7.9,https://m.media-amazon.com/images/M/MV5BMjdiM2IyZmQtODJiYy00NDNkLTllYmItMmFjMDNiYTQyOGVkXkEyXkFqcGdeQXVyNDY2MTk1ODk@.jpg
+452,Mildred Pierce,1945,111 min,Crime,7.9,https://m.media-amazon.com/images/M/MV5BNzljY2U2MDItYWE3Yi00OWE3LWEyMjQtMGNkZmJjNDE0NDJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+453,The Lost Weekend,1945,101 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BMTk4NDQ0NjgyNF5BMl5BanBnXkFtZTgwMTE3NTkxMTE@.jpg
+454,Laura,1944,88 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BNjYwY2VmOGEtZTM1Mi00YmZhLWFkY2QtNmNlYzA0NmE5MTNlXkEyXkFqcGdeQXVyMzg1ODEwNQ@@.jpg
+455,The Asphalt Jungle,1950,112 min,Crime,7.8,https://m.media-amazon.com/images/M/MV5BNWYxNWZjZmEtOTk1Ny00ZWE0LWI1YjAtZmQ0ZjM4OGUwNmJjXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+456,To Have and Have Not,1944,100 min,Adventure,7.8,https://m.media-amazon.com/images/M/MV5BZGU2YmU0MWMtMzg5My00ZmY2LTljMDItMTg2YTI5Y2U2OTE3XkEyXkFqcGdeQXVyMjUxODE0MDY@.jpg
+457,Shadow of a Doubt,1943,108 min,Film-Noir,7.8,https://m.media-amazon.com/images/M/MV5BYzUyOGE2Y2EtYzI2My00MDcxLWFmNzYtYjMzN2NiMmMzMzAzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+458,Key Largo,1948,100 min,Action,7.7,https://m.media-amazon.com/images/M/MV5BNjU0NjU1NjYzN15BMl5BanBnXkFtZTgwMTk0NzE2MjE@.jpg
+460,Gilda,1946,110 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BYWUxMzViZTUtNTYxNy00YjY4LWJmMjYtMzNlOThjNjhiZmZkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+461,The Lady from Shanghai,1947,87 min,Crime,7.5,https://m.media-amazon.com/images/M/MV5BNWZkNTYxZjQtN2IwZi00OGExLTg3ZDEtODNjMDFkN2Y5Y2NkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+462,Spellbound,1945,111 min,Film-Noir,7.5,https://m.media-amazon.com/images/M/MV5BMjE0ZjdmNjQtNWE0MC00MjVjLTg1MDItYzc5YTE1NGFkNjUzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@.jpg
+463,The Wrong Man,1956,105 min,Drama,7.4,https://m.media-amazon.com/images/M/MV5BOWFhOTM1NDItZTMyYi00MGZiLWFjYTktOWI3YTgzNGRjY2I3XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+464,The Stranger,1946,95 min,Crime,7.3,https://m.media-amazon.com/images/M/MV5BMTExMDAzMDM0NzZeQTJeQWpwZ15BbWU3MDk3ODIzNzQ@.jpg
+465,Suspicion,1941,99 min,Film-Noir,7.3,https://m.media-amazon.com/images/M/MV5BMDZiZWJjMjMtMjg4MC00Njk5LTliYzktZGM5ODBmNTA3YTc1XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+478,Da hong deng long gao gao gua,1991,125 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNDMxMTc2N2ItMjI5Ny00MGFiLThkOTYtZTIyYTZhMzA2NjIzXkEyXkFqcGdeQXVyNjc3MjQzNTI@.jpg
+482,Kumonosu-jô,1957,110 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNGYxZjA2M2ItYTRmNS00NzRmLWJkYzgtYTdiNGFlZDI5ZjNmXkEyXkFqcGdeQXVyNDE5MTU2MDE@.jpg
+483,"Quo vadis, Aida?",2020,101 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BNjMxMzAxMTUtNjY3Mi00MjZiLTgyYjMtNzAwZGI4YzViNGQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg
+484,The Revenant,2015,156 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+488,JFK,1991,189 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BYjYyODExMDctZjgwYy00ZjQwLWI4OWYtOGFlYjA4ZjEzNmY1XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+489,Il gattopardo,1963,186 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BYTc0ZTQxY2EtNTUyYS00MTM5LWIyOTQtYzQ0YTBiNzc2YjE0XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+490,Bronenosets Potemkin,1925,75 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMTEyMTQzMjQ0MTJeQTJeQWpwZ15BbWU4MDcyMjg4OTEx.jpg
+492,Airlift,2016,130 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BMGE1ZTkyOTMtMTdiZS00YzI2LTlmYWQtOTE5YWY0NWVlNjlmXkEyXkFqcGdeQXVyNjQ3ODkxMjE@.jpg
+493,Letters from Iwo Jima,2006,141 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BMjE0NzgwODI4M15BMl5BanBnXkFtZTcwNjg3OTA0MQ@@.jpg
+494,Ying xiong,2002,120 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+495,Kagemusha,1980,180 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BYjk4NzAwYTgtZTdmNi00NDI3LWJkNjAtNmQ2MGU5NmUzMWI3XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+496,All the President's Men,1976,138 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BOWI2YWQxM2MtY2U4Yi00YjgzLTgwNzktN2ExNTgzNTIzMmUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@.jpg
+497,The Lion in Winter,1968,134 min,Biography,7.9,https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@.jpg
+498,In Cold Blood,1967,134 min,Biography,7.9,https://m.media-amazon.com/images/M/MV5BOTg4OGY2NmEtZTZlMy00ZjM3LWIyZjAtMzQzMjI1MmI1OTRhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+499,Spartacus,1960,197 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BMjc4MTUxN2UtMmU1NC00MjQyLTk3YTYtZTQ0YzEzZDc0Njc0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+500,The Ten Commandments,1956,220 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BODcxYjUxZDgtYTQ5Zi00YmQ1LWJmZmItODZkOTYyNDhiNWM3XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+501,Dunkirk,2017,106 min,Action,7.8,https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg
+502,Hidden Figures,2016,127 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BMzg2Mzg4YmUtNDdkNy00NWY1LWE3NmEtZWMwNGNlMzE5YzU3XkEyXkFqcGdeQXVyMjA5MTIzMjQ@.jpg
+503,Under sandet,2015,100 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BMjA0MzQzNjM1Ml5BMl5BanBnXkFtZTgwNjM5MjU5NjE@.jpg
+504,The Big Short,2015,130 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+505,Straight Outta Compton,2015,147 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BMTA5MzkyMzIxNjJeQTJeQWpwZ15BbWU4MDU0MDk0OTUx.jpg
+506,Changeling,2008,141 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@.jpg
+507,Tombstone,1993,130 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BODRkYzA4MGItODE2MC00ZjkwLWI2NDEtYzU1NzFiZGU1YzA0XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+508,Glory,1989,122 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BODhlNjA5MDEtZDVhNS00ZmM3LTg1YzAtZGRjNjhjNTAzNzVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@.jpg
+509,Mississippi Burning,1988,128 min,Crime,7.8,https://m.media-amazon.com/images/M/MV5BNzMxZTI2NzEtMGE0OC00MTQ3LTk0YjUtODZlMzY4N2U3ZDQwXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+510,The Killing Fields,1984,141 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BZTMxYjBjOTktYWY5OC00NmYwLWE2NTctYzlkMTFkODYxMzRkXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+511,The Right Stuff,1983,193 min,Adventure,7.8,https://m.media-amazon.com/images/M/MV5BOTUwMDA3MTYtZjhjMi00ODFmLTg5ZTAtYzgwN2NlODgzMmUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+512,The Man Who Would Be King,1975,129 min,Adventure,7.8,https://m.media-amazon.com/images/M/MV5BZWQzYjBjZmQtZDFiOS00ZDQ1LWI4MDAtMDk1NGE1NDBhYjNhL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+513,"Aguirre, der Zorn Gottes",1972,95 min,Action,7.8,https://m.media-amazon.com/images/M/MV5BMjRkY2VhYzMtZWQyNS00OTY2LWE5NTAtYjlhNmQyYzE5MmUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+514,The Trial of the Chicago 7,2020,129 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BYjYzOGE1MjUtODgyMy00ZDAxLTljYTgtNzk0Njg2YWQwMTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg
+515,Alien,1979,117 min,Horror,8.5,https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+516,Psycho,1960,109 min,Horror,8.5,https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+517,The Shining,1980,146 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+519,The Thing,1982,109 min,Horror,8.2,https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+520,The Exorcist,1973,122 min,Horror,8.1,https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+521,Les diaboliques,1955,117 min,Crime,8.1,https://m.media-amazon.com/images/M/MV5BZjYyNDk4ZDAtODA0My00NWRiLWE1YTktMzgzMTVlNDM1YTA1L2ltYWdlXkEyXkFqcGdeQXVyNTk1NTMyNzM@.jpg
+522,The Blue Elephant,2014,170 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BNDkxMzk2ODU4N15BMl5BanBnXkFtZTgwNTM4NjIzMjE@.jpg
+523,Rosemary's Baby,1968,137 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMTA5NWQwMmYtZjEyYS00Nzc2LTgwZjAtNTQ4NmFmZjNkNjg4XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+524,What Ever Happened to Baby Jane?,1962,134 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BZmI0M2VmNTgtMWVhYS00Zjg1LTk1YTYtNmJmMjRkZmMwYTc2XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+525,Das Cabinet des Dr. Caligari,1920,76 min,Horror,8.0,https://m.media-amazon.com/images/M/MV5BNWJiNGJiMTEtMGM3OC00ZWNlLTgwZTgtMzdhNTRiZjk5MTQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+526,Låt den rätte komma in,2008,114 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BOWM4NTY2NTMtZDZlZS00NTgyLWEzZDMtODE3ZGI1MzI3ZmU5XkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg
+527,Shaun of the Dead,2004,99 min,Comedy,7.9,https://m.media-amazon.com/images/M/MV5BMTg5Mjk2NDMtZTk0Ny00YTQ0LWIzYWEtMWI5MGQ0Mjg1OTNkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+528,King Kong,1933,100 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BZTY3YjYxZGQtMTM2YS00ZmYwLWFlM2QtOWFlMTU1NTAyZDQ2XkEyXkFqcGdeQXVyNTgyNTA4MjM@.jpg
+529,Nosferatu,1922,94 min,Fantasy,7.9,https://m.media-amazon.com/images/M/MV5BZDIyMjM0NjUtMTk3Ny00MDgwLWE5NDYtOWRlMDQyZGIzNzcwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+530,Ang-ma-reul bo-at-da,2010,144 min,Action,7.8,https://m.media-amazon.com/images/M/MV5BZjRmNjc5MTYtYjc3My00ZjNiLTg4YjUtMTQ0ZTFkZmMxMDUzXkEyXkFqcGdeQXVyNDY5MTUyNjU@.jpg
+531,Predator,1987,107 min,Action,7.8,https://m.media-amazon.com/images/M/MV5BY2QwYmFmZTEtNzY2Mi00ZWMyLWEwY2YtMGIyNGZjMWExOWEyXkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg
+532,Dawn of the Dead,1978,127 min,Horror,7.8,https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+533,Night of the Living Dead,1968,96 min,Horror,7.8,https://m.media-amazon.com/images/M/MV5BMzRmN2E1ZDUtZDc2ZC00ZmI3LTkwOTctNzE2ZDIzMGJiMTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+534,The Innocents,1961,100 min,Horror,7.8,https://m.media-amazon.com/images/M/MV5BNGQyNjBjNTUtNTM1OS00YzcyLWFhNTgtNTU0MDg3NzBlMDQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+535,Bride of Frankenstein,1935,75 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BOTUzMzAzMzEzNV5BMl5BanBnXkFtZTgwOTg1NTAwMjE@.jpg
+536,Freaks,1932,64 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BMjMyYjgyOTQtZDVlZS00NTQ0LWJiNDItNGRlZmM3Yzc0N2Y0XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+537,Frankenstein,1931,70 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BMTQ0Njc1MjM0OF5BMl5BanBnXkFtZTgwNTY2NTUyMjE@.jpg
+538,Evil Dead II,1987,84 min,Comedy,7.7,https://m.media-amazon.com/images/M/MV5BMWY3ODZlOGMtNzJmOS00ZTNjLWI3ZWEtZTJhZTk5NDZjYWRjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+539,Halloween,1978,91 min,Horror,7.7,https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+540,Invasion of the Body Snatchers,1956,80 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BYTExYjM3MDYtMzg4MC00MjU4LTljZjAtYzdlMTFmYTJmYTE4XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+541,Busanhaeng,2016,118 min,Action,7.6,https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@.jpg
+542,What We Do in the Shadows,2014,86 min,Comedy,7.6,https://m.media-amazon.com/images/M/MV5BYmYyYWY4NjgtNGQ2Yi00NDNiLWJlOTgtYjI1MTI0NjZkNjhhXkEyXkFqcGdeQXVyNDE5MTU2MDE@.jpg
+543,La piel que habito,2011,120 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMjMwOTYyNDY4NV5BMl5BanBnXkFtZTcwNDI1ODk0Ng@@.jpg
+544,Zombieland,2009,88 min,Action,7.6,https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@.jpg
+545,Saw,2004,103 min,Horror,7.6,https://m.media-amazon.com/images/M/MV5BM2M1MzI1MWYtYmM2ZC00OWY3LTk0ZGMtNmRkNzU1NzEzMWE5XkEyXkFqcGdeQXVyODUwOTkwODk@.jpg
+546,The Others,2001,101 min,Horror,7.6,https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx.jpg
+547,Vampire Hunter D: Bloodlust,2000,103 min,Animation,7.6,https://m.media-amazon.com/images/M/MV5BNTIyNThlMjMtMzUyMi00YmEyLTljMmYtMWRhN2Q3ZTllZjA4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@.jpg
+548,American Psycho,2000,102 min,Crime,7.6,https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+549,The Fly,1986,96 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+550,Repulsion,1965,105 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMzdiZmRhNGItMGZkMC00ZWQyLTg0ZjYtYTkwYzRhZjAwZjMwXkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg
+551,The Birds,1963,119 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx.jpg
+552,Peeping Tom,1960,101 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BZjM3ZTAzZDYtZmFjZS00YmQ1LWJlOWEtN2I4MDRmYzY5YmRlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@.jpg
+553,Les yeux sans visage,1960,90 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BNjVjNDBkZjQtMTc4Ni00MTQ5LTkyNmYtNDE2NGMzYzdiOTVlXkEyXkFqcGdeQXVyMzg2MzE2OTE@.jpg
+554,The Invisible Man,1933,71 min,Horror,7.6,https://m.media-amazon.com/images/M/MV5BMTIzZDJlOGItMmM4ZC00MWZiLTk2OWYtODRjNDc3ZWU4MzdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg
+555,Stree,2018,128 min,Comedy,7.5,https://m.media-amazon.com/images/M/MV5BMjk4NGZiMzAtODU1NS00MmQ4LWJiNmQtNWU5ZWU4Y2VmNWI0XkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+556,A Quiet Place,2018,90 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@.jpg
+557,Tucker and Dale vs Evil,2010,89 min,Comedy,7.5,https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@.jpg
+558,The Conjuring,2013,112 min,Horror,7.5,https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@.jpg
+559,Grindhouse,2007,191 min,Action,7.5,https://m.media-amazon.com/images/M/MV5BMjA0MzExNzc3MV5BMl5BanBnXkFtZTcwODAxMzM0MQ@@.jpg
+560,28 Days Later...,2002,113 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BYTFkM2ViMmQtZmI5NS00MjQ2LWEyN2EtMTI1ZmNlZDU3MTZjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+561,Interview with the Vampire: The Vampire Chronicles,1994,123 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BYThmYjJhMGItNjlmOC00ZDRiLWEzNjUtZjU4MjA3MzY0MzFmXkEyXkFqcGdeQXVyNTI4MjkwNjA@.jpg
+562,The Crow,1994,102 min,Action,7.5,https://m.media-amazon.com/images/M/MV5BM2Y4ZGVhZjItNjU0OC00MDk1LWI4ZTktYTgwMWJkNDE5OTcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+569,Ba wang bie ji,1993,171 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BYmFhZmM3Y2MtNDA1Ny00NjkzLWJkM2EtYWU1ZjEwYmNjZDQ0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@.jpg
+570,Höstsonaten,1978,99 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNzc0MTAwMzctMTM0MS00ZDA1LTkxOTItNTMyZjliYTc1NGM5XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+571,The Red Shoes,1948,135 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BOWRmNGEwZjUtZjEwNS00OGZmLThhMmEtZTJlMTU5MGQ3ZWUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+572,La La Land,2016,128 min,Comedy,8.0,https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@.jpg
+574,CODA,2021,111 min,Comedy,8.0,https://m.media-amazon.com/images/M/MV5BYzkyNzNiMDItMGU1Yy00NmEyLWE4N2ItMjkzMDZmMmVhNDU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg
+575,La leggenda del pianista sull'oceano,1998,169 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMzIwOTdmNjQtOWQ1ZS00ZWQ4LWIxYTMtOWFkM2NjODJiMGY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4MjkwNjA@.jpg
+576,Pink Floyd: The Wall,1982,95 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMzYwMDZlZDktNGVlMC00OWVlLWI0MTktN2UwNTUxOWI1NjJhXkEyXkFqcGdeQXVyMzg1ODEwNQ@@.jpg
+577,Sing Street,2016,106 min,Comedy,7.9,https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@.jpg
+578,Gully Boy,2019,154 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BZDkzMTQ1YTMtMWY4Ny00MzExLTkzYzEtNzZhOTczNzU2NTU1XkEyXkFqcGdeQXVyODY3NjMyMDU@.jpg
+579,Bohemian Rhapsody,2018,134 min,Biography,7.9,https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz.jpg
+580,Almost Famous,2000,122 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BMzY1ZjMwMGEtYTY1ZS00ZDllLTk0ZmUtYzA3ZTA4NmYwNGNkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+581,Trois couleurs: Bleu,1993,94 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BZWU5NWQ2MWMtYmI4Ni00Yjk5LTk3ODktMDVlZGViNGUwN2M5XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+582,This Is Spinal Tap,1984,82 min,Comedy,7.9,https://m.media-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@.jpg
+583,The Blues Brothers,1980,133 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BYTdlMDExOGUtN2I3MS00MjY5LWE1NTAtYzc3MzIxN2M3OWY1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+584,Secret Superstar,2017,150 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BM2IzMGIxMDQtNzE3OS00MGZjLTljNzgtMGE2MjAyZThmNjNhXkEyXkFqcGdeQXVyMTExNDQ2MTI@.jpg
+586,Les choristes,2004,97 min,Comedy,7.8,https://m.media-amazon.com/images/M/MV5BNzMxY2ZkY2UtZGE0Yi00MDFhLWEwNmEtNDE2MjNhMDYwNjliXkEyXkFqcGdeQXVyNzQzNzQxNzI@.jpg
+587,Walk the Line,2005,136 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@.jpg
+588,All That Jazz,1979,123 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BM2YzMGE2NmUtOTlhMi00MzQyLTgyOTAtMTNiNWRiMjFjYjE3XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+589,Cabaret,1972,124 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BYzEzZWU3ZTctMGRmZi00YTBiLThhN2UtNzRmNjI5ZGRhOTJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+590,A Night at the Opera,1935,96 min,Comedy,7.8,https://m.media-amazon.com/images/M/MV5BYTJmNmQxNGItNDNlMC00MDU3LWFhNzMtZDQ2NDY0ZTVkNjE3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+591,Sound of Metal,2019,120 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BNjcyYjg0M2ItMzMyZS00NmM1LTlhZDMtN2MxN2RhNWY4YTkwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@.jpg
+592,The Broken Circle Breakdown,2012,111 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BMTQzMzg2Nzg2MF5BMl5BanBnXkFtZTgwNjUzNzIzMDE@.jpg
+593,Rockstar,2011,159 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@.jpg
+594,Joyeux Noël,2005,116 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BYzIzNzM2MTAtNzE5MS00M2ZhLTkxNDctMmQyODE3Mzg3YWE5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@.jpg
+595,Billy Elliot,2000,110 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+596,Hedwig and the Angry Inch,2001,95 min,Comedy,7.7,https://m.media-amazon.com/images/M/MV5BZGY5NWUyNDUtZWJhZi00ZjMxLWFmMjMtYmJhZjVkZGZhNWQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+597,"O Brother, Where Art Thou?",2000,107 min,Adventure,7.7,https://m.media-amazon.com/images/M/MV5BMjZkOTdmMWItOTkyNy00MDdjLTlhNTQtYzU3MzdhZjA0ZDEyXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+598,Shine,1996,105 min,Biography,7.7,https://m.media-amazon.com/images/M/MV5BNTNlZDhkNTMtYTExYS00NGRiLTlhZTItM2JlOWQ3MzE4YzdhXkEyXkFqcGdeQXVyNjc3MjQzNTI@.jpg
+599,La double vie de Véronique,1991,98 min,Drama,7.7,https://m.media-amazon.com/images/M/MV5BYmE0ZGRiMDgtOTU0ZS00YWUwLTk5YWQtMzhiZGVhNzViMGZiXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+600,Nashville,1975,160 min,Comedy,7.7,https://m.media-amazon.com/images/M/MV5BMDY0MzE3YWQtZTAzMS00ZmRlLWE3NzYtMjk0NDlkMmE4N2U2XkEyXkFqcGdeQXVyMTAwMzUyOTc@.jpg
+601,Fantasia,1940,125 min,Animation,7.7,https://m.media-amazon.com/images/M/MV5BMjAxMTI1Njk3OF5BMl5BanBnXkFtZTgwNjkzODk4NTE@.jpg
+602,Baby Driver,2017,113 min,Action,7.6,https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@.jpg
+603,A Star Is Born,2018,136 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BNmE5ZmE3OGItNTdlNC00YmMxLWEzNjctYzAwOGQ5ODg0OTI0XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+604,La Vie en Rose,2007,140 min,Biography,7.6,https://m.media-amazon.com/images/M/MV5BOTBmZDZkNWYtODIzYi00N2Y4LWFjMmMtNmM1OGYyNGVhYzUzXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+605,Control,2007,122 min,Biography,7.6,https://m.media-amazon.com/images/M/MV5BNTEzOTYwMTcxN15BMl5BanBnXkFtZTcwNTgyNjI1MQ@@.jpg
+606,Le violon rouge,1998,130 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BYmZiMGI1ZWQtM2ZiOS00YWQ0LWEwYzMtODhhYTMwMzM5MjU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@.jpg
+607,The Commitments,1991,118 min,Comedy,7.6,https://m.media-amazon.com/images/M/MV5BNTRiMmUyMTMtMmI1Ny00MmUyLWJmZGUtNDVhMWMxNDA3OGNiXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+608,Zimna wojna,2018,89 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BNTJmNzExOGItZTQyMi00YzBlLTk0ZTQtNzAxYmUwZDQwZjU4XkEyXkFqcGdeQXVyODE1MjMyNzI@.jpg
+609,La pianiste,2001,131 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BY2UxMDBhODMtZjMyNy00ZTExLWEzZTYtNzI4ODgyZDg4MTQ3XkEyXkFqcGdeQXVyMTA0MTM5NjI2.jpg
+614,"Swades: We, the People",2004,210 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BODY2NGYxZTEtMzBiOS00Zjg2LWEyZjYtNjQ5Mjg1MzQ5N2FlXkEyXkFqcGdeQXVyNTE0MDc0NTM@.jpg
+615,Lagaan: Once Upon a Time in India,2001,224 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNmYxZGJlNmQtMWY3OS00Njc0LThjODgtOWEwMWU4NTUxMDExXkEyXkFqcGdeQXVyNDAzNDk0MTQ@.jpg
+616,Sholay,1975,204 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BODhlNjJkZTEtMWQ3Ni00MTA2LTg4YTMtYTQzYzk1ZTM4MDQzXkEyXkFqcGdeQXVyODAzNzAwOTU@.jpg
+617,Anand,1971,122 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMzI4MjcxNGMtZmY1Zi00ZGU5LTk4MDMtNTljMDJmYTNjZjcxXkEyXkFqcGdeQXVyMTA0MTM5NjI2.jpg
+624,Kal Ho Naa Ho,2003,186 min,Comedy,7.9,https://m.media-amazon.com/images/M/MV5BYmVjNDIxODAtNWZiZi00ZDBlLWJmOTUtNDNjMGExNTViMzE1XkEyXkFqcGdeQXVyNTE0MDc0NTM@.jpg
+625,Dancer in the Dark,2000,140 min,Crime,7.9,https://m.media-amazon.com/images/M/MV5BNDVkYWMxNWEtNjc2MC00OGI5LWI3NmUtYWUwNDQyOTc3YmY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+628,Veer-Zaara,2004,192 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BY2VlOTc4ZjctYjVlMS00NDYwLWEwZjctZmYzZmVkNGU5NjNjXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+631,Willy Wonka & the Chocolate Factory,1971,100 min,Family,7.8,https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@.jpg
+632,Les parapluies de Cherbourg,1964,91 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BMDhhNGFmN2UtNGU3My00NTQ1LTlmNTktNzMzMmUwMGJkZjk0XkEyXkFqcGdeQXVyNjI5NTk0MzE@.jpg
+633,My Fair Lady,1964,170 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BNGM0ZTU3NmItZmRmMy00YWNjLWEzMWItYzg3MzcwZmM5NjdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@.jpg
+634,Mary Poppins,1964,139 min,Comedy,7.8,https://m.media-amazon.com/images/M/MV5BNmJkODczNjItNDI5Yy00MGI1LTkyOWItZDNmNjM4ZGI1ZDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+636,Duck Soup,1933,69 min,Comedy,7.8,https://m.media-amazon.com/images/M/MV5BYmYxZGU2NWYtNzQxZS00NmEyLWIzN2YtMDk5MWM0ODc5ZTE4XkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+637,Tangled,2010,100 min,Animation,7.7,https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@.jpg
+639,"South Park: Bigger, Longer & Uncut",1999,81 min,Animation,7.7,https://m.media-amazon.com/images/M/MV5BOGE0ZWI0YzAtY2NkZi00YjkyLWIzYWEtNTJmMzJjODllNjdjXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+640,The Muppet Christmas Carol,1992,85 min,Comedy,7.7,https://m.media-amazon.com/images/M/MV5BN2Y0NWRkNWItZWEwNi00MDNlLWJmZDYtNTkwYzI5Nzg4MjVjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+642,Moulin Rouge!,2001,127 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMWFhYjliNjYtYjNhNS00OGExLWFhMjQtNDgwOWYyNWJiYzhmXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+643,Mulan,1998,88 min,Animation,7.6,https://m.media-amazon.com/images/M/MV5BODkxNGQ1NWYtNzg0Ny00Yjg3LThmZTItMjE2YjhmZTQ0ODY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+644,Baazigar,1993,175 min,Crime,7.6,https://m.media-amazon.com/images/M/MV5BZjQ2OTFkOWItMmIyNS00Mjk0LWE5MzAtMmUwNjFkM2I5NjEwXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+645,The Little Mermaid,1989,83 min,Animation,7.6,https://m.media-amazon.com/images/M/MV5BN2JlZTBhYTEtZDE3OC00NTA3LTk5NTQtNjg5M2RjODllM2M0XkEyXkFqcGdeQXVyNjk1Njg5NTA@.jpg
+646,The Muppet Movie,1979,95 min,Adventure,7.6,https://m.media-amazon.com/images/M/MV5BMGQ0OGM5YjItYzYyMi00NmVmLWI3ODMtMTY2NGRkZmI5MWU2XkEyXkFqcGdeQXVyMzI0NDc4ODY@.jpg
+647,The Jungle Book,1967,78 min,Animation,7.6,https://m.media-amazon.com/images/M/MV5BMTg3MDI5ODEtMDU4ZC00NDA1LWFhZTQtZDIyZjk0NDgzZTE2XkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg
+648,West Side Story,1961,153 min,Crime,7.6,https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@.jpg
+649,Snow White and the Seven Dwarfs,1937,83 min,Animation,7.6,https://m.media-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@.jpg
+650,"tick, tick...BOOM!",2021,120 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BZmMyMmE0M2UtN2E2MC00YzVmLTkwODgtOTVhYjVlOTBhY2RjXkEyXkFqcGdeQXVyODk4OTc3MTY@.jpg
+651,Les Misérables,2012,158 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@.jpg
+652,The Greatest Showman,2017,105 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@.jpg
+653,Kuch Kuch Hota Hai,1998,177 min,Comedy,7.5,https://m.media-amazon.com/images/M/MV5BNGNhNWMwNTgtZmNlOS00OGM3LWIxYzItOWQwZDJjMzQ3MzRlXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+654,The Meaning of Life,1983,107 min,Comedy,7.5,https://m.media-amazon.com/images/M/MV5BZWJkNGY5MDAtYmVkMy00NzdiLTk5MzctMzA0MjMxMDY2NGYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+655,Hair,1979,121 min,Comedy,7.5,https://m.media-amazon.com/images/M/MV5BODUzNjUzNzIzM15BMl5BanBnXkFtZTcwMjc4MjkzNA@@.jpg
+656,The Many Adventures of Winnie the Pooh,1977,74 min,Animation,7.5,https://m.media-amazon.com/images/M/MV5BNjg5MjQzYTQtMTUzZC00NzlkLTgzZDEtMjg0OWY4NTNjNzJlXkEyXkFqcGdeQXVyNjI4MjU4MTY@.jpg
+657,Robin Hood,1973,83 min,Animation,7.5,https://m.media-amazon.com/images/M/MV5BYjUwMzhkM2ItMTU2OC00OTQ5LWJlMDUtMzRmYjc0NDUyNGVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+669,Rear Window,1954,112 min,Mystery,8.5,https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+670,The Lives of Others,2006,137 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+672,Memento,2000,113 min,Mystery,8.4,https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+676,Incendies,2010,131 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+678,Vertigo,1958,128 min,Mystery,8.3,https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+680,Citizen Kane,1941,119 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+684,El secreto de sus ojos,2009,129 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+685,Shutter Island,2010,138 min,Mystery,8.2,https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+686,The Sixth Sense,1999,107 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@.jpg
+689,Chinatown,1974,130 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+690,Rashômon,1950,88 min,Crime,8.2,https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@.jpg
+691,The Tashkent Files,2019,134 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BYzk3NWM2MmItZGU5NS00MGEwLWIzYzMtMDkyZDQ1NTc2MTAxXkEyXkFqcGdeQXVyNjE1OTQ0NjA@.jpg
+692,Talvar,2015,132 min,Crime,8.1,https://m.media-amazon.com/images/M/MV5BMTYzODg0Mjc4M15BMl5BanBnXkFtZTgwNzY4Mzc3NjE@.jpg
+693,Gone Girl,2014,149 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@.jpg
+694,Kahaani,2012,122 min,Mystery,8.1,https://m.media-amazon.com/images/M/MV5BMTQ1NDI0NzkyOF5BMl5BanBnXkFtZTcwNzAyNzE2Nw@@.jpg
+695,Prisoners,2013,153 min,Crime,8.1,https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@.jpg
+696,A Wednesday,2008,104 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BOTcwMzdiMWItMjZlOS00MzAzLTg5OTItNTA4OGYyMjBhMmRiXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+698,Article 15,2019,130 min,Crime,8.1,https://m.media-amazon.com/images/M/MV5BZTI2NTFiMDMtZjQxNS00YjBkLWFhNWMtOTIyMzE5Yjc0ZTZiXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+699,Salinui chueok,2003,131 min,Crime,8.1,https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg
+700,Trois couleurs: Rouge,1994,99 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BYTg1MmNiMjItMmY4Yy00ZDQ3LThjMzYtZGQ0ZTQzNTdkMGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+704,Contratiempo,2016,106 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BOTEwYTkzMTMtODEzNC00YWM2LTgxNDMtZWNkNTQzNDVjMWQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@.jpg
+715,Eternal Sunshine of the Spotless Mind,2004,108 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@.jpg
+717,Good Will Hunting,1997,126 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+726,Gone with the Wind,1939,238 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+728,Portrait de la jeune fille en feu,2019,122 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@.jpg
+730,Ah-ga-ssi,2016,145 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+732,Before Sunset,2004,80 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3.jpg
+733,Dil Chahta Hai,2001,183 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BMjRjMTYwMTYtMmRkNi00MmVkLWE0MjQtNmM3YjI0NWFhZDNmXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+734,Fa Yeung Nin Wah,2000,98 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BYWVjNjMwZTgtMGYyYy00NmVhLWE1NDItMzFhMmJkYTNjYWIwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+735,Before Sunrise,1995,101 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+740,A Woman Under the Influence,1974,155 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BODQyMWUyNDEtODZlNS00YTk3LWJlMDAtMGQ0ODZjMDZjMjhmXkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg
+742,Smultronstället,1957,91 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+744,The Best Years of Our Lives,1946,170 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+746,It Happened One Night,1934,105 min,Comedy,8.1,https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+748,Sunrise: A Song of Two Humans,1927,94 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@.jpg
+749,Arjun Reddy,2017,182 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BMzFhMThiOWItMzRjNC00YzQwLTkyZWItYmJhNzgwYzY1ODI0XkEyXkFqcGdeQXVyNTcyMzkyODg@.jpg
+751,Her,2013,126 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@.jpg
+752,Slumdog Millionaire,2008,120 min,Crime,8.0,https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+753,Lage Raho Munna Bhai,2006,144 min,Comedy,8.0,https://m.media-amazon.com/images/M/MV5BN2ZmMDMwODgtMzA5MS00MGU0LWEyYTgtYzQ5MmQzMzU2NTVkXkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+754,Bom yeoreum gaeul gyeoul geurigo bom,2003,103 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BYjQ5NjM1MDktNTMwNy00ZWRhLTlkNjYtYTgwMGVlMGVmMzVjXkEyXkFqcGdeQXVyMTI3ODAyMzE2.jpg
+774,Metropolis,1927,153 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+779,Logan,2017,137 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+781,Mad Max: Fury Road,2015,120 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+783,The Terminator,1984,107 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+784,Blade Runner,1982,117 min,Action,8.1,https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+785,Stalker,1979,162 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@.jpg
+786,The Martian,2015,144 min,Adventure,8.0,https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@.jpg
+787,Guardians of the Galaxy,2014,121 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg
+788,Blade Runner 2049,2017,164 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@.jpg
+790,Deadpool,2016,108 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+792,Dune: Part One,2021,155 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg
+793,The Avengers,2012,143 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+794,G.O.R.A.,2004,127 min,Adventure,8.0,https://m.media-amazon.com/images/M/MV5BMjE0MTY2MDI3NV5BMl5BanBnXkFtZTcwNTc1MzEzMQ@@.jpg
+795,Donnie Darko,2001,113 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+797,Twelve Monkeys,1995,129 min,Mystery,8.0,https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+800,Solaris,1972,167 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BZmY4Yjc0OWQtZDRhMy00ODc2LWI2NGYtMWFlODYyN2VlNDQyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+801,Planet of the Apes,1968,112 min,Adventure,8.0,https://m.media-amazon.com/images/M/MV5BMTg0NjUwMzg5NF5BMl5BanBnXkFtZTgwNDQ0NjcwMTE@.jpg
+802,Minnal Murali,2021,158 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BNzllYTM0ZDgtZTk4NS00YjYzLTliNjktMjZmNTZmNGZlNzI4XkEyXkFqcGdeQXVyMjkxNzQ1NDI@.jpg
+803,Thor: Ragnarok,2017,130 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@.jpg
+812,Million Dollar Baby,2004,132 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@.jpg
+814,Rocky,1976,120 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+816,The Hustler,1961,134 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BNTAwNGNlYWEtNDJlOC00NTE5LWJjNmQtMjExZDU2NDUyZTFlXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+817,M.S. Dhoni: The Untold Story,2016,184 min,Biography,7.9,https://m.media-amazon.com/images/M/MV5BZjAzZjZiMmQtMDZmOC00NjVmLTkyNTItOGI2Mzg4NTBhZTA1XkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+818,The Wrestler,2008,109 min,Drama,7.9,https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@.jpg
+819,Kai po che!,2013,130 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@.jpg
+820,The World's Fastest Indian,2005,127 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BMjE1MjA0MDA3MV5BMl5BanBnXkFtZTcwOTU0MjMzMQ@@.jpg
+821,Remember the Titans,2000,113 min,Biography,7.8,https://m.media-amazon.com/images/M/MV5BYThkMzgxNjEtMzFiOC00MTI0LWI5MDItNDVmYjA4NzY5MDQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+822,The Sandlot,1993,101 min,Comedy,7.8,https://m.media-amazon.com/images/M/MV5BODllYjM1ODItYjBmOC00MzkwLWJmM2YtMjMyZDU3MGJhNjc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+823,Moneyball,2011,133 min,Biography,7.6,https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@.jpg
+824,The Blind Side,2009,129 min,Biography,7.6,https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@.jpg
+825,The Hurricane,1999,146 min,Biography,7.6,https://m.media-amazon.com/images/M/MV5BZjhjMWE5OTUtOWNlMi00ZjM0LWE0YTktMWZkNmIwZmZkYzBjXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+826,King Richard,2021,144 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BYTcyNmY4ZGEtYmE4Zi00ZDViLTlmYzMtMmQ4ZTM4OWNmZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg
+827,83,2021,162 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BNTc0MWIzMjYtMDg4Mi00YmM3LWIxNGUtYjQ5NzBlZTM3YWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg
+828,"I, Tonya",2017,119 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@.jpg
+829,The Art of Racing in the Rain,2019,109 min,Comedy,7.5,https://m.media-amazon.com/images/M/MV5BZjU5ZTYzM2MtNDNhYi00YjU1LWE4MzEtODc0NmNlODZlMjlhXkEyXkFqcGdeQXVyNjg3MDMxNzU@.jpg
+830,The Damned United,2009,98 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BMjEyMzkzMjM0MV5BMl5BanBnXkFtZTcwNzE3NTU3Mg@@.jpg
+831,42,2013,128 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BMTQwMDU4MDI3MV5BMl5BanBnXkFtZTcwMjU1NDgyOQ@@.jpg
+832,Rudy,1993,114 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BZGUzMDU1YmQtMzBkOS00MTNmLTg5ZDQtZjY5Njk4Njk2MmRlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+833,Field of Dreams,1989,107 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BNzk5OWY0YjAtYWU3ZS00Y2Q4LWFlNjItMzgwMTQ2MjIyMDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+834,Le grand bleu,1988,168 min,Adventure,7.5,https://m.media-amazon.com/images/M/MV5BOTg5NGE1MjYtZjU3Zi00NWZhLTg4ZmEtMDI0YzMwN2Y2NDIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+835,Molly's Game,2017,140 min,Biography,7.4,https://m.media-amazon.com/images/M/MV5BNTkzMzRlYjEtMTQ5Yi00OWY3LWI0NzYtNGQ4ZDkzZTU0M2IwXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg
+836,"McFarland, USA",2015,129 min,Biography,7.4,https://m.media-amazon.com/images/M/MV5BMjMwNjY2Mjk5OV5BMl5BanBnXkFtZTgwODM2NTA0MzE@.jpg
+837,The Greatest Game Ever Played,2005,120 min,Biography,7.4,https://m.media-amazon.com/images/M/MV5BMTQ4NDk3MDk0NV5BMl5BanBnXkFtZTcwMzk4OTgyMQ@@.jpg
+838,Hooligans,2005,109 min,Crime,7.4,https://m.media-amazon.com/images/M/MV5BMjExNTg3NzYwMV5BMl5BanBnXkFtZTcwMzcxMTEzMQ@@.jpg
+839,Miracle,2004,135 min,Biography,7.4,https://m.media-amazon.com/images/M/MV5BMjEyOTk1OTcyNV5BMl5BanBnXkFtZTYwNjMzNDU3.jpg
+840,Searching for Bobby Fischer,1993,109 min,Biography,7.4,https://m.media-amazon.com/images/M/MV5BNTNlYjBjMGEtOTFkZS00MjM5LTk2ZTktYWVmZTc4NzE3NzAxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+841,Hoosiers,1986,114 min,Drama,7.4,https://m.media-amazon.com/images/M/MV5BMTYyNTc0OTUwNV5BMl5BanBnXkFtZTcwODA3NzE0NA@@.jpg
+842,The Natural,1984,138 min,Drama,7.4,https://m.media-amazon.com/images/M/MV5BZGU5NDU4ZTctYjE2YS00NTUxLWIzMTAtMTMxNTgxODAzNDI5XkEyXkFqcGdeQXVyMTAwMzUyOTc@.jpg
+843,Hustle,2022,117 min,Comedy,7.3,https://m.media-amazon.com/images/M/MV5BYjdhYTE3NjMtZjI3OC00NzVlLWFiNTUtNzQ3NDNiNTI3NDg4XkEyXkFqcGdeQXVyMTEyMjM2NDc2.jpg
+844,Southpaw,2015,124 min,Action,7.3,https://m.media-amazon.com/images/M/MV5BMjI1MTcwODk0MV5BMl5BanBnXkFtZTgwMTgwMDM5NTE@.jpg
+845,Eddie the Eagle,2015,106 min,Adventure,7.3,https://m.media-amazon.com/images/M/MV5BMTUxOTc5MTU1NF5BMl5BanBnXkFtZTgwODYyNTA1NzE@.jpg
+846,Invictus,2009,134 min,Action,7.3,https://m.media-amazon.com/images/M/MV5BMjAyMzExMDM1N15BMl5BanBnXkFtZTcwNTcyMTQ5Mg@@.jpg
+847,Coach Carter,2005,136 min,Biography,7.3,https://m.media-amazon.com/images/M/MV5BNWYxZWFiNTItN2FkNS00ZDJmLWE1MWItYjMyMTgyOTI4MmQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+848,Seabiscuit,2003,140 min,Drama,7.3,https://m.media-amazon.com/images/M/MV5BMWVmMmE1YzItNGUyZS00MzgwLWFhNzYtYjM4ZTJmZDVjNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+849,Siu Lam juk kau,2001,113 min,Action,7.3,https://m.media-amazon.com/images/M/MV5BMjhlMWE5NzktNmE4Ny00ZWFlLTk5MzUtZDZhZmQ0YmVlNDI0XkEyXkFqcGdeQXVyNjc5NjEzNA@@.jpg
+870,Idi i smotri,1985,142 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@.jpg
+897,Die Hard,1988,132 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+908,Das Boot,1981,149 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3.jpg
+910,Paths of Glory,1957,88 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg
+914,Full Metal Jacket,1987,116 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+916,Judgment at Nuremberg,1961,179 min,Drama,8.3,https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@.jpg
+920,Dara iz Jasenovca,2020,130 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BYjA2NWY5M2YtZTZiNi00Y2IxLTk0NzgtYjQxYjYxNjVkMjM1XkEyXkFqcGdeQXVyOTIxNTAyMzU@.jpg
+923,Ran,1985,162 min,Action,8.2,https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+929,Mandariinid,2013,87 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMTgwNzA3MDQzOV5BMl5BanBnXkFtZTgwNTE5MDE5NDE@.jpg
+933,Platoon,1986,120 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+934,The Deer Hunter,1978,183 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+936,Barry Lyndon,1975,185 min,Adventure,8.1,https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+937,La battaglia di Algeri,1966,121 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+939,La Grande Illusion,1937,113 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMTg3MTI5NTk0N15BMl5BanBnXkFtZTgwMjU1MDM5MTE@.jpg
+940,All Quiet on the Western Front,1930,152 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMDdlMzRjM2MtNjcxNy00MjgyLTkyZmYtY2ExODM0OTBkMzI0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@.jpg
+943,Nefes: Vatan Sagolsun,2009,128 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BMjE2NjEyMDg0M15BMl5BanBnXkFtZTcwODYyODg5Mg@@.jpg
+945,Taegukgi hwinalrimyeo,2004,140 min,Action,8.0,https://m.media-amazon.com/images/M/MV5BNjAxZTEzNzQtYjdlNy00ZTJmLTkwZDUtOTAwNTM3YjI2MWUyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+946,Au revoir les enfants,1987,104 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BZmYxOTA5YTEtNDY3Ni00YTE5LWE1MTgtYjc4ZWUxNWY3ZTkxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@.jpg
+947,Ivanovo detstvo,1962,95 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BYTYzYzBhYjQtNDQxYS00MmUwLTkyZjgtZWVkOWFjNzE5OTI2XkEyXkFqcGdeQXVyNjMxMjkwMjI@.jpg
+948,Stalag 17,1953,120 min,Comedy,8.0,https://m.media-amazon.com/images/M/MV5BNDMyNGU0NjUtNTIxMC00ZmU2LWE0ZGItZTdkNGVlODI2ZDcyL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+950,Once Upon a Time in the West,1968,165 min,Western,8.5,https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+951,Django Unchained,2012,165 min,Drama,8.4,https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@.jpg
+952,Unforgiven,1992,130 min,Drama,8.2,https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@.jpg
+953,Per qualche dollaro in più,1965,132 min,Western,8.2,https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+957,The Man Who Shot Liberty Valance,1962,123 min,Drama,8.1,https://m.media-amazon.com/images/M/MV5BMGEyNzhkYzktMGMyZS00YzRiLWJlYjktZjJkOTU5ZDY0ZGI4XkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg
+959,Dances with Wolves,1990,181 min,Adventure,8.0,https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@.jpg
+960,Butch Cassidy and the Sundance Kid,1969,110 min,Biography,8.0,https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@.jpg
+961,Rio Bravo,1959,141 min,Western,8.0,https://m.media-amazon.com/images/M/MV5BZDVhMTk1NjUtYjc0OS00OTE1LTk1NTYtYWMzMDI5OTlmYzU2XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+962,High Noon,1952,85 min,Drama,8.0,https://m.media-amazon.com/images/M/MV5BOWIzZGUxZmItOThkMS00Y2QxLTg0MTYtMDdhMjRlNTNlYTI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+963,The Wild Bunch,1969,145 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BNGUyYTZmOWItMDJhMi00N2IxLWIyNDMtNjUxM2ZiYmU5YWU1XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+964,Per un pugno di dollari,1964,99 min,Action,7.9,https://m.media-amazon.com/images/M/MV5BY2M5MDA1YjUtODQ1Yi00M2JlLTk2ZWQtYjI0NTEwZDk2NGNhXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+965,The Searchers,1956,119 min,Adventure,7.9,https://m.media-amazon.com/images/M/MV5BYWQ3YWJiMDEtMDBhNS00YjY1LTkzNmEtY2U4Njg4MjQ3YWE3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@.jpg
+966,The Hateful Eight,2015,168 min,Crime,7.8,https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@.jpg
+968,The Outlaw Josey Wales,1976,135 min,Western,7.8,https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@.jpg
+969,Red River,1948,133 min,Drama,7.8,https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@.jpg
+970,Stagecoach,1939,96 min,Adventure,7.8,https://m.media-amazon.com/images/M/MV5BOGQ4NDUyNWQtZTEyOC00OTMzLWFhYjAtNDNmYmQ2MWQyMTRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@.jpg
+971,Wind River,2017,107 min,Crime,7.7,https://m.media-amazon.com/images/M/MV5BMTUyMjU1OTUwM15BMl5BanBnXkFtZTgwMDg1NDQ2MjI@.jpg
+972,3:10 to Yuma,2007,122 min,Action,7.7,https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@.jpg
+973,Blazing Saddles,1974,93 min,Comedy,7.7,https://m.media-amazon.com/images/M/MV5BZGZmMWE1MDYtNzAyNC00MDMzLTgzZjQtNTQ5NjYzN2E4MzkzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@.jpg
+974,The Magnificent Seven,1960,128 min,Action,7.7,https://m.media-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@.jpg
+975,True Grit,2010,110 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMTU5MjU3MTI4OF5BMl5BanBnXkFtZTcwMTQxOTAxNA@@.jpg
+976,McCabe & Mrs. Miller,1971,120 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMmMxMTk0MmMtY2I0YS00NjcwLTk2NjYtOWFlOTA0M2EzNjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+977,Giù la testa,1971,157 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BZGZmNTNjYzAtNmI2ZC00YzNlLTkyYWEtNmRkMWFjNjA2MTI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+978,Little Big Man,1970,139 min,Adventure,7.6,https://m.media-amazon.com/images/M/MV5BMWQwNTZjNTgtMGQyMS00ZTI3LWFkNzEtYzIxM2EwZGYxMDU4XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+979,Giant,1956,201 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BMDQwOWQ0OGItNjJjYi00YzVjLTk4NmUtYzQ0NzUwZGY3NDZjXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+980,Shane,1953,118 min,Drama,7.6,https://m.media-amazon.com/images/M/MV5BYzMzZmJjZGItMjY2OC00ZDcxLWI1YjQtMTU1MjQwN2NlNzIyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@.jpg
+981,The Assassination of Jesse James by the Coward Robert Ford,2007,160 min,Biography,7.5,https://m.media-amazon.com/images/M/MV5BMTY2NDI2MTc2NV5BMl5BanBnXkFtZTcwNjA2NTQzMw@@.jpg
+982,Dead Man,1995,121 min,Adventure,7.5,https://m.media-amazon.com/images/M/MV5BNjZiMDUyYmEtNzAwYy00YjNiLWEyODItNTJmMjZjOWQ3MThlXkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+983,Legends of the Fall,1994,133 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BMTYwMjYxNTAyN15BMl5BanBnXkFtZTgwMTc3MjkyMTE@.jpg
+984,Of Mice and Men,1992,115 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BYTA4ZTUzODAtZTdmMi00MmMxLThlMDgtY2VhY2Y2MjUxNDEyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@.jpg
+985,Jeremiah Johnson,1972,108 min,Adventure,7.5,https://m.media-amazon.com/images/M/MV5BYzE0NWI0ZDctYjkwNi00YTM3LWI4MjYtZGRlN2JiMjZmYzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@.jpg
+986,El Dorado,1966,126 min,Drama,7.5,https://m.media-amazon.com/images/M/MV5BY2FhMzhlYzMtZjNlYi00NTU2LWEyNjAtZDE2YjNlZjljMmQ4L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@.jpg
+987,Yahsi Bati,2009,112 min,Adventure,7.4,https://m.media-amazon.com/images/M/MV5BZDlkZjJiZTItZDAxYS00YzAzLTg3ZTMtMWU5OGEwMjI4ODEzXkEyXkFqcGdeQXVyMjExNjgyMTc@.jpg
+988,Open Range,2003,139 min,Action,7.4,https://m.media-amazon.com/images/M/MV5BMTYyNjA4NTY3N15BMl5BanBnXkFtZTYwNjc0MDM3.jpg
+989,Lone Star,1996,135 min,Drama,7.4,https://m.media-amazon.com/images/M/MV5BN2ViYzQ3YTAtZmQ5OS00ZWNkLWFkZWQtYTJiNTI1OWVlMzc0XkEyXkFqcGdeQXVyNTAyODkwOQ@@.jpg
+990,Back to the Future Part III,1990,118 min,Adventure,7.4,https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@.jpg
+991,High Plains Drifter,1973,105 min,Drama,7.4,https://m.media-amazon.com/images/M/MV5BMTcxNWM4ZDUtZGUzMC00YTVkLTlmY2YtYmUwY2U5Y2U2NGFjXkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg
+993,The Ballad of Buster Scruggs,2018,133 min,Comedy,7.3,https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@.jpg
+994,Bacurau,2019,131 min,Adventure,7.3,https://m.media-amazon.com/images/M/MV5BYjc1N2M1YjMtYzBiNi00NGFiLThkN2QtY2EwZGU5MDRkODAzXkEyXkFqcGdeQXVyMTkzODUwNzk@.jpg
+995,The Proposition,2005,104 min,Crime,7.3,https://m.media-amazon.com/images/M/MV5BN2M3MGJlZDktMGE1YS00Y2ZkLThiYTMtYWNjMTFjMjg4MTVhXkEyXkFqcGdeQXVyMTAwMzUyOTc@.jpg
+996,The Three Burials of Melquiades Estrada,2005,121 min,Adventure,7.3,https://m.media-amazon.com/images/M/MV5BMjExNjIxMTgxMV5BMl5BanBnXkFtZTcwNzgyNzEzMQ@@.jpg
+997,Pale Rider,1985,115 min,Drama,7.3,https://m.media-amazon.com/images/M/MV5BOGZjOWM3MWYtNTc5Yy00NGQ0LWFkMDQtOWUwYzhkNTZmNGI2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@.jpg
